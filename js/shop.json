@@ -1,0 +1,20 @@
+[
+{
+    "id":1,
+    "title":"chair1",
+    "price":100,
+    "img":"/images/product-1.png"
+},
+{
+    "id":2,
+    "title":"chair2",
+    "price":200,
+    "img":"/images/product-2.png"
+},
+{
+    "id":3,
+    "title":"chair3",
+    "price":300,
+    "img":"/images/product-3.png"
+}
+]
